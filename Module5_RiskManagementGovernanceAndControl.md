@@ -1,9 +1,9 @@
 
-################################
-Risk Identification 
-#################################
 
-## Phase 1. Identifying the risk 
+## Risk Identification 
+
+
+### Phase 1. Identifying the risk 
 ---------------------------------------  
   -  Business objectives are set and agreed during planning cycle (long term plans)
   -  Analysis of the operating environement enables identification of the risks that could impact  on the delivery of business plans
@@ -17,7 +17,7 @@ Risk Identification
       - risk is entered into a risk register
 
 
-## Phase 2. identifying the control 
+### Phase 2. identifying the control 
 ---------------------------------------  
   - Bowtie tool (tool to capture risk information during the risk identification phase )
   - set out the process for establishing the causes and impacts for a risk event and the linkage to controls
@@ -33,7 +33,7 @@ Risk Identification
       - verification approach 
           - method and strategy to obtain assurance on the contorl health , using various methods as evidence 
 
-## Phase 3. including these risks in a risk register 
+### Phase 3. including these risks in a risk register 
 ---------------------------------------  
 - Risk Register
   - RM tool to record details for identified risk
@@ -43,10 +43,10 @@ Risk Identification
       - manager
       - mitigation measures
 
-################################
-Risk Analysis
-#################################
-- Risk Calculation 
+
+## Risk Analysis
+
+### Risk Calculation 
   - Likelihood 
       - Rare (less than once in 15 yrs) 
       - Unlikely ( at least once in 10 yrs)
@@ -62,10 +62,8 @@ Risk Analysis
   - Risk Rating 
       - = Likelihood X Impact 
 
-################################
-Risk Evaluation and Risk Treatment 
-#################################
 
+## Risk Evaluation and Risk Treatment 
   - Compare the risk analysis outputs against risk criteria to understand where risk is tolerable 
   - Process :
       - Conducting the periodic risk assessments (annually minimum)
@@ -80,8 +78,8 @@ Risk Evaluation and Risk Treatment
           - tolerability 
               - measure of acceptance of the risk level remaining after taking account of the effectiveness of controls and mitigating actions 
           - if risk is not tolerable, risk owner must raise a risk rectification issue and implement remedication tasks to reduce the residual risk
--------------------------------------------------
-Reducing Risk
+
+### Reducing Risk
     - Risk treatment 
         - action taken to modify the identified risk to a acceptabole level 
         - Ways :
@@ -90,8 +88,8 @@ Reducing Risk
                 - Avoid 
         - Accept the risk (Risk retention) to achive a profit
         - Risk Treatment chart 
--------------------------------------------------
-Controls To Treat Risk
+
+### Controls To Treat Risk
   - Hierarchy of controls (from most effective to least effective)
     - Elimination (is this step critical?)
     - Replace (bots?)
@@ -113,8 +111,7 @@ Controls To Treat Risk
         - to calculate the control design and implementation effectiveness for managing the risks
             - Effective, Adequate, Inadequate
 
--------------------------------------------------
-Business Continuity Phase and Disaster Recovery Plans (BCP)
+### Business Continuity Phase and Disaster Recovery Plans (BCP)
     - encompasses mitigating controls for significant risks that upon occurrence could interrupt the business for an extended period time 
     - Risk owner to decide whether BCP is required
     - RO develop, implement , test and maintain BCP to ensure the approriate resources (plan,procedures/facilities ,equipemnet, training) are available in case of an inccident 
@@ -123,10 +120,8 @@ Business Continuity Phase and Disaster Recovery Plans (BCP)
           - to perform a business inmpact assessment BIA frist to establish key objectives for recovery 
             - network, cloud, virtual, data centre disaster recovery plan
 
-################################
-Risk Monitoring and action 
-#################################
 
+## Risk Monitoring and action 
 - a system of ongoing review that is capable of responding promptly to new risks and changes to existing risks 
 - Objecvtives 
     - provide a system of ongoing revierw of risk to management
@@ -145,10 +140,8 @@ Risk Monitoring and action
   - leadership team meetings (monthly , qtrly, bi-aanual)
   - head of functions meetings ( monthly,quatertly)
 
-################################
-ISO 31000 Monitoring and Review Processes
-#################################
 
+## ISO 31000 Monitoring and Review Processes
 - Expects organations to plan monitoring and review processes into all RM process stages
   - Control Validation   
        - risk controls to prevent , detect , correct risk
@@ -172,10 +165,8 @@ ISO 31000 Monitoring and Review Processes
       - requires determining the threshold at which action to mitigate risk is triggered 
       - serve as a proactive approach to RM 
 
-################################
-Monitoring Risk using risk triggers
-#################################
 
+## Monitoring Risk using risk triggers
 - Risk changes over time and this change can affect compliance 
 - Risk triggers are a way of staying on top of changes and staying compliant 
 - responsive to risk 
