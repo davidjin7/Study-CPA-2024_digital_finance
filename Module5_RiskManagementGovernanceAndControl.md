@@ -3,7 +3,7 @@
 Risk Identification 
 #################################
 
-Phase 1. Identifying the risk 
+## Phase 1. Identifying the risk 
 ---------------------------------------  
   -  Business objectives are set and agreed during planning cycle (long term plans)
   -  Analysis of the operating environement enables identification of the risks that could impact  on the delivery of business plans
@@ -17,7 +17,7 @@ Phase 1. Identifying the risk
       - risk is entered into a risk register
 
 
-Phase 2. identifying the control 
+## Phase 2. identifying the control 
 ---------------------------------------  
   - Bowtie tool (tool to capture risk information during the risk identification phase )
   - set out the process for establishing the causes and impacts for a risk event and the linkage to controls
@@ -33,7 +33,7 @@ Phase 2. identifying the control
       - verification approach 
           - method and strategy to obtain assurance on the contorl health , using various methods as evidence 
 
-Phase 3. including these risks in a risk register 
+## Phase 3. including these risks in a risk register 
 ---------------------------------------  
 - Risk Register
   - RM tool to record details for identified risk
