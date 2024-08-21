@@ -171,26 +171,26 @@
   - Risk triggers are a way of staying on top of changes and staying compliant 
   - responsive to risk 
   - RT help to monitor for any unknown risk and re-evaluate their RM 
-  
   - Type of Risk Trigger :
-        - Incident/near miss event 
-            - incidicate that controls are failing or that risk is not managed well
-        - Audit Findings 
-            - highlights issues with control environment or identify when risks arent being well managed from an independent source
-        - Stakeholder.business impact analysis 
-            - bank closure on branches , impactr staff morale
-            - bank used AI to target potential customers. may lead to biased results 
-        - Operational risk/organisational change 
-            - may affect other risk profiles /underlying control enviroment (Examnple : move local server to cloud)
-        - IT change management 
-            - large impact on system 
-            - change in system to automated and affect the whole business processes 
-        - Privavy impact analysis 
-            - security and privavy of data 
-            - health insurance collect health data from various sources, (need to k now if what they intended to do is in accordance with privavy best practises and regulations
-        - Changes to risk profile (PESTLE analysis)
-            - example : aviation company changes in safetly regulations and standards 
-                        lending company is required to undertstand and conform to the buy now pay later legislation and changes in competitive landscapre
-  
+     ```
+      - Incident/near miss event 
+          - incidicate that controls are failing or that risk is not managed well
+      - Audit Findings 
+          - highlights issues with control environment or identify when risks arent being well managed from an independent source
+      - Stakeholder.business impact analysis 
+          - bank closure on branches , impactr staff morale
+          - bank used AI to target potential customers. may lead to biased results 
+      - Operational risk/organisational change 
+          - may affect other risk profiles /underlying control enviroment (Examnple : move local server to cloud)
+      - IT change management 
+          - large impact on system 
+          - change in system to automated and affect the whole business processes 
+      - Privavy impact analysis 
+          - security and privavy of data 
+          - health insurance collect health data from various sources, (need to k now if what they intended to do is in accordance with privavy best practises and regulations
+      - Changes to risk profile (PESTLE analysis)
+          - example : aviation company changes in safetly regulations and standards 
+                      lending company is required to undertstand and conform to the buy now pay later legislation and changes in competitive landscapre
+    ```
 
 
